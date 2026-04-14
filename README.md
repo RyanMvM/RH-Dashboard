@@ -1,7 +1,7 @@
 
 # RH-Dashboard com SQL + Power BI
 
-<img width="2000" height="1353" alt="Image" src="https://github.com/user-attachments/assets/2f3d13d0-9391-417a-b49c-c5ef7445b207" />
+<img width="2000" height="1353" alt="Image" src="https://github.com/user-attachments/assets/8969536a-a931-43c3-bbc7-fc53a7bbd295" />
 
 ## Dados e Ferramentas usadas
 
